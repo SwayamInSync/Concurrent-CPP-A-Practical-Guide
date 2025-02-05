@@ -1,2 +1,2 @@
-# Concurrent-C-A-Practical-Guide
+# Concurrent-CPP-A-Practical-Guide
 This repo contains the code sample for the book "Concurrent C++: A Practical Guide"
